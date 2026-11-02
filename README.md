@@ -27,7 +27,7 @@ A modern **Flutter** e-commerce application that fetches product data from a RES
 ---
 
 ## Architecture
----
+
 The application strictly adheres to the **MVVM (Model-View-ViewModel)** architectural pattern to separate UI components from business logic and data layer operations.
 
 ## Screenshots
