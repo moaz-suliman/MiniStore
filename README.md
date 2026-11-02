@@ -1,17 +1,31 @@
-# small_shop
+# Mini Shop
 
-A new Flutter project.
+A modern **Flutter** e-commerce application that fetches product data from a REST API. This project demonstrates clean code organization, effective state management, and solid Flutter architecture practices.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+- **User Authentication:** Login capabilities integrated with remote services.
+- **Product Management:** Fetching product data from a REST API with responsive browsing and listing.
+- **State Management:** Clean state handling using **Provider**.
+- **Secure Storage:** Persistent token management via **Flutter Secure Storage**.
+- **Dependency Injection:** Service locator implementation using **GetIt**.
+- **Architecture:** Structured following the **MVVM** pattern.
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Technologies Used
+
+- **Flutter & Dart** – Cross-platform mobile development
+- **Provider** – State management
+- **GetIt** – Dependency injection
+- **Flutter Secure Storage** – Secure local token storage
+- **DummyJSON API** – Authentication and sample product endpoints
+- **REST API** – Remote data fetching
+
+---
+
+## Architecture
+
+The application strictly adheres to the **MVVM (Model-View-ViewModel)** architectural pattern to separate UI components from business logic and data layer operations.
