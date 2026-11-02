@@ -27,7 +27,7 @@ A modern **Flutter** e-commerce application that fetches product data from a RES
 ---
 
 ## Architecture
-
+---
 The application strictly adheres to the **MVVM (Model-View-ViewModel)** architectural pattern to separate UI components from business logic and data layer operations.
 
 ## splash page
@@ -49,7 +49,7 @@ The application strictly adheres to the **MVVM (Model-View-ViewModel)** architec
 ## product page
 
 <img width="416" height="740" alt="image" src="https://github.com/user-attachments/assets/f28bfa27-2b4d-47b3-91e2-1ded8ea4016f" />
-##product detail page
+## product detail page
 
 <img width="417" height="738" alt="image" src="https://github.com/user-attachments/assets/ab4aeac8-7933-4c4c-9faf-6f1d2bcde17f" />
 
