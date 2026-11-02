@@ -1,39 +1,31 @@
-ة 🛍️
-mini shop
-A Flutter e-commerce application that fetches product data from a REST API. The project focuses on clean code organization, state management, and modern Flutter development practices.
+#  Mini Shop
 
-✨ Features
+A modern **Flutter** e-commerce application that fetches product data from a REST API. This project demonstrates clean code organization, effective state management, and solid Flutter architecture practices.
 
-User Authentication (Login).
+---
 
-Fetching product data from REST API.
+## Features
 
-Product listing and browsing.
+* **User Authentication:** Login capabilities integrated with remote services.
+* **Product Management:** Fetching product data from a REST API with responsive browsing and listing.
+* **State Management:** Clean state handling using **Provider**.
+* **Secure Storage:** Persistent token management via **Flutter Secure Storage**.
+* **Dependency Injection:** Service locator implementation using **GetIt**.
+* **Architecture:** Structured following the **MVVM** pattern.
 
-State management using Provider.
+---
 
-Secure token storage using Flutter Secure Storage.
+##  Technologies Used
 
-Dependency Injection using GetIt.
+* **Flutter & Dart** – Cross-platform mobile development
+* **Provider** – State management
+* **GetIt** – Dependency injection
+* **Flutter Secure Storage** – Secure local token storage
+* **DummyJSON API** – Authentication and sample product endpoints
+* **REST API** – Remote data fetching
 
-MVVM architecture.
+---
 
-🛠️ Technologies Used
+##  Architecture
 
-Flutter & Dart – Mobile application development.
-
-Provider – State management.
-
-REST API – Fetching remote data.
-
-GetIt – Dependency Injection.
-
-Flutter Secure Storage – Secure local token storage.
-
-MVVM – Application architecture.
-
-DummyJSON API – Authentication and sample data.
-
-🏗️ Architecture
-
-The project follows the MVVM architectural pattern to separate UI components from business logic and data operations.
+The application strictly adheres to the **MVVM (Model-View-ViewModel)** architectural pattern to separate UI components from business logic and data layer operations.
