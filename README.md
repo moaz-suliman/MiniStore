@@ -30,30 +30,25 @@ A modern **Flutter** e-commerce application that fetches product data from a RES
 ---
 The application strictly adheres to the **MVVM (Model-View-ViewModel)** architectural pattern to separate UI components from business logic and data layer operations.
 
-## splash page
+## Screenshots
 
-<img width="445" height="771" alt="image" src="https://github.com/user-attachments/assets/d82a7a6d-7110-4481-98f0-f489d79daf48" />
+### Splash Page
+<img width="445" alt="Splash Page" src="https://github.com/user-attachments/assets/d82a7a6d-7110-4481-98f0-f489d79daf48" />
 
-## on boarding page
+### Onboarding Page
+<img width="414" alt="Onboarding Page" src="https://github.com/user-attachments/assets/63d2536d-7a24-43f0-a522-2a3c71008b44" />
 
-<img width="414" height="762" alt="image" src="https://github.com/user-attachments/assets/63d2536d-7a24-43f0-a522-2a3c71008b44" />
+### Log In Page
+<img width="416" alt="Log In Page" src="https://github.com/user-attachments/assets/fd467e39-1dfd-40be-bd5d-298e4fb85e06" />
 
-## log in page 
+### Sign Up Page
+<img width="413" alt="Sign Up Page" src="https://github.com/user-attachments/assets/6d3979e8-9007-4545-9a16-06bce4f10eb4" />
 
-<img width="416" height="740" alt="image" src="https://github.com/user-attachments/assets/fd467e39-1dfd-40be-bd5d-298e4fb85e06" />
+### Product Page
+<img width="416" alt="Product Page" src="https://github.com/user-attachments/assets/f28bfa27-2b4d-47b3-91e2-1ded8ea4016f" />
 
-## sign up page
+### Product Detail Page
+<img width="417" alt="Product Detail Page" src="https://github.com/user-attachments/assets/ab4aeac8-7933-4c4c-9faf-6f1d2bcde17f" />
 
-<img width="413" height="740" alt="image" src="https://github.com/user-attachments/assets/6d3979e8-9007-4545-9a16-06bce4f10eb4" />
-
-## product page
-
-<img width="416" height="740" alt="image" src="https://github.com/user-attachments/assets/f28bfa27-2b4d-47b3-91e2-1ded8ea4016f" />
-## product detail page
-
-<img width="417" height="738" alt="image" src="https://github.com/user-attachments/assets/ab4aeac8-7933-4c4c-9faf-6f1d2bcde17f" />
-
-
-## cart page
-
-<img width="415" height="740" alt="image" src="https://github.com/user-attachments/assets/004eab66-4f9d-40da-9b48-a2a875326f3d" />
+### Cart Page
+<img width="415" alt="Cart Page" src="https://github.com/user-attachments/assets/004eab66-4f9d-40da-9b48-a2a875326f3d" />
